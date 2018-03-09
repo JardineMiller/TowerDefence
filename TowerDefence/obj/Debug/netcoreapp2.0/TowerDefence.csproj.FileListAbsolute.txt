@@ -1,0 +1,11 @@
+/Users/jardine/Projects/TowerDefence/TowerDefence/bin/Debug/netcoreapp2.0/TowerDefence.deps.json
+/Users/jardine/Projects/TowerDefence/TowerDefence/bin/Debug/netcoreapp2.0/TowerDefence.runtimeconfig.json
+/Users/jardine/Projects/TowerDefence/TowerDefence/bin/Debug/netcoreapp2.0/TowerDefence.runtimeconfig.dev.json
+/Users/jardine/Projects/TowerDefence/TowerDefence/bin/Debug/netcoreapp2.0/TowerDefence.dll
+/Users/jardine/Projects/TowerDefence/TowerDefence/bin/Debug/netcoreapp2.0/TowerDefence.pdb
+/Users/jardine/Projects/TowerDefence/TowerDefence/obj/Debug/netcoreapp2.0/TowerDefence.csprojResolveAssemblyReference.cache
+/Users/jardine/Projects/TowerDefence/TowerDefence/obj/Debug/netcoreapp2.0/TowerDefence.csproj.CoreCompileInputs.cache
+/Users/jardine/Projects/TowerDefence/TowerDefence/obj/Debug/netcoreapp2.0/TowerDefence.AssemblyInfoInputs.cache
+/Users/jardine/Projects/TowerDefence/TowerDefence/obj/Debug/netcoreapp2.0/TowerDefence.AssemblyInfo.cs
+/Users/jardine/Projects/TowerDefence/TowerDefence/obj/Debug/netcoreapp2.0/TowerDefence.dll
+/Users/jardine/Projects/TowerDefence/TowerDefence/obj/Debug/netcoreapp2.0/TowerDefence.pdb
